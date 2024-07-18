@@ -8,26 +8,31 @@ body {
     border-radius: 10px;
 }
 
-h1 {
+h1, h2 {
     color: cornsilk;
-}
-
-h2 {
-
 }
 
 ul {
     list-style-type: none;
+    padding: 10px;
+}
+
+ol {
+    padding: 10px 30px;
 }
 
 li {
-
+    text-align: justify;
 }
 
-a {
-
+img {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 p {
-
+    padding: 10px;
+    text-align: justify;
 }
