@@ -1,0 +1,33 @@
+body {
+    font-family: 'Trebuchet MS', sans-serif;
+    background-color: cadetblue;
+}
+
+.content-section {
+    background-color:cornsilk;
+    border-radius: 10px;
+}
+
+h1 {
+    color: cornsilk;
+}
+
+h2 {
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+
+}
+
+a {
+
+}
+
+p {
+
+}
