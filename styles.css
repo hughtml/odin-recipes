@@ -6,19 +6,29 @@ body {
 .content-section {
     background-color:cornsilk;
     border-radius: 10px;
+    padding: 5px;
 }
 
 h1, h2 {
     color: cornsilk;
 }
 
+h1 {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 50px;
+}
+
 ul {
     list-style-type: none;
-    padding: 10px;
+    padding: 0px 15px;
 }
 
 ol {
-    padding: 10px 30px;
+    padding: 10px 35px;
 }
 
 li {
@@ -33,6 +43,6 @@ img {
 }
 
 p {
-    padding: 10px;
+    padding: 0px 10px;
     text-align: justify;
 }
